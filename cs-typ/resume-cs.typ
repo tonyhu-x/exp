@@ -48,12 +48,14 @@
   ]
   #section("Technical Skills")
   #entry_base("Programming Languages")[
-    
-    C, Python, Java, TypeScript, and familiarity with many other languages
-  ]
+
+    High proficiency in C, TypeScript, and Python;
+
+    Solid knowledge of Rust, C++, and other languages
+    ]
   #entry_base("Other Skills")[
-    
-    Git, GitHub/Gerrit, GNU tools, jQuery, Node.js, React, Webpack
+
+    React, Next.js, Git, GitHub/Gerrit, etc.
   ]
   #section("Languages")
   - English: Fluent
@@ -65,15 +67,36 @@
 #body_right[
   #section("Experience")
   #entry(
-    "Firmware Engineer (Intern)",
+    "Firmware Engineer Intern",
     time: [May 2023--Present],
     subtitle: [Advanced Micro Devices, Inc.],
     [Owned and developed UEFI EDK2 silicon initialization code of numerous IPs (USB,
     ACPI, I2C/I3C, eSPI) for next-generation SoC program in C],
-    [Implemented and tested crucial components for the AMD USB4 v2 Pre-OS Connection Manager],
-    [Developed a functional testing framework with stream-like log-parsing utilities in Python],
-    [Implemeneted 50+ EDK2 unit-tests and log-based functional tests while conducting critical
-    analysis of code quality],
+    [Implemented and tested 3 crucial components for the AMD USB4 v2 Pre-OS Connection Manager],
+    [Developed a functional testing framework with stream-like log-parsing utilities in Python,
+    with 50+ unit tests implemented],
+    [Led the POC of AMD openSIL silicon init library for Client-side southbridge team, resulting in
+    80% completion of code porting and development],
+  )
+  #entry(
+    "Web Developer",
+    time: [January 2024--Present],
+    subtitle: [Self-employed],
+    [Developed and deployed a #link("http://aptitude-study.vercel.app")[dynamic website] for conducting
+    an online linguistics study using TypeScript, React, and Next.js],
+    [Configured a PostgreSQL database and blob storage through Vercel],
+    [Developing and maintaining an open-source, framework-agnostic
+    #link("https://www.npmjs.com/package/react-experiment-builder")[React library]
+    facilitating the setup of online experiments]
+  )
+  #section("Research")
+  #entry(
+    "Student Principal Investigator",
+    time: [September 2023--Present],
+    subtitle: [Aptitude and working memory effects on French
+    pronunciation in beginner language classrooms],
+    [Designed the methodology of a novel research project with 7 components],
+    [Completed a pilot study with 4 participants using a self-developed online experiment platform and reported preliminary findings]
   )
   #entry(
     "Research Assistant",
@@ -97,21 +120,12 @@
     [Designed experiment website using JavaScript and EJS],
     [Extracted and analyzed experiment data with R],
   )
-  #section("Select Project")
+  #section("Select Projects")
   #entry(
     "Amigos",
     subtitle: [Friend-matching web app based on the Spring Boot framework written in Java (CS Course Project)],
     [Collaborated with 5 teammates to implement a web app, wiring back- and frontend with Spring and Thymeleaf],
     [Coded 5+ controller and model classes following the MVC Architecture],
     [Developed database to store users and programmed 5 data access interfaces],
-  )
-  #entry(
-    "Autocorrect",
-    subtitle: "A Python GUI program that suggests word autocorrection based on Levenshtein distance algorithm (CS Course Project)",
-    [Implemented the BK-Tree algorithm for approximate string matching],
-    [Implemented the Trie data structure as part of the Levenshtein automaton (with teammate), improving performance by 60%],
-    [Designed a GUI with Tkinter to display 3 autocorrection results for each word],
-    // combining CliChA and Autocorrect here
-    [Implemented a web crawler with the Scrapy framework in Python and collected 600 megabytes of text data from major news sources],
   )
 ]

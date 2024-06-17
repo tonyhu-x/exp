@@ -111,6 +111,8 @@
   set text(size: 10pt, font: "Palatino Linotype")
   set block(spacing: 0.65em)
 
+  show link: underline
+
   // title
   block(text(size: 1.5em, name))
 
