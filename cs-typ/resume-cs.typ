@@ -67,18 +67,6 @@
 #body_right[
   #section("Experience")
   #entry(
-    "Firmware Engineer Intern",
-    time: [May 2023--Present],
-    subtitle: [Advanced Micro Devices, Inc.],
-    [Owned and developed UEFI EDK2 silicon initialization code of numerous IPs (USB,
-    ACPI, I2C/I3C, eSPI) for next-generation SoC program in C],
-    [Implemented and tested 3 crucial components for the AMD USB4 v2 Pre-OS Connection Manager],
-    [Developed a functional testing framework with stream-like log-parsing utilities in Python,
-    with 50+ unit tests implemented],
-    [Led the POC of AMD openSIL silicon init library for Client-side southbridge team, resulting in
-    80% completion of code porting and development],
-  )
-  #entry(
     "Web Developer",
     time: [January 2024--Present],
     subtitle: [Self-employed],
@@ -88,6 +76,18 @@
     [Developing and maintaining an open-source, framework-agnostic
     #link("https://www.npmjs.com/package/react-experiment-builder")[React library]
     facilitating the setup of online experiments]
+  )
+  #entry(
+    "Firmware Engineer Intern",
+    time: [May 2023--April 2024],
+    subtitle: [Advanced Micro Devices, Inc.],
+    [Owned and developed UEFI EDK2 silicon initialization code of numerous IPs (USB,
+    ACPI, I2C/I3C, eSPI) for next-generation SoC program in C],
+    [Implemented and tested 3 crucial components for the AMD USB4 v2 Pre-OS Connection Manager],
+    [Developed a functional testing framework with stream-like log-parsing utilities in Python,
+    with 50+ unit tests implemented],
+    [Led the POC of AMD openSIL silicon init library for Client-side southbridge team, resulting in
+    80% completion of code porting and development],
   )
   #section("Research")
   #entry(
