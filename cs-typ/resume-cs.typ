@@ -55,7 +55,7 @@
     ]
   #entry_base("Other Skills")[
 
-    React, Next.js, Git, GitHub/Gerrit, etc.
+    React, Next.js, Git, GitHub/Gerrit, Atlassian Jira, Confluence, etc.
   ]
   #section("Languages")
   - English: Fluent
