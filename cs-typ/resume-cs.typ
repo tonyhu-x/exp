@@ -87,7 +87,7 @@
     [Developed a functional testing framework with stream-like log-parsing utilities in Python,
     with 50+ unit tests implemented],
     [Led the POC of AMD openSIL silicon init library for Client-side southbridge team, resulting in
-    80% completion of code porting and development],
+    80% completion of code development],
   )
   #section("Research")
   #entry(
@@ -96,18 +96,19 @@
     subtitle: [Aptitude and working memory effects on French
     pronunciation in beginner language classrooms],
     [Designed the methodology of a novel research project with 7 components],
-    [Completed a pilot study with 4 participants using a self-developed online experiment platform and reported preliminary findings]
+    [Completed a pilot study of 4 participants using a self-developed online experiment platform],
+    [Reported preliminary findings in a 20-page academic paper],
   )
   #entry(
     "Research Assistant",
     time: [September 2022--Present],
     subtitle: [Toronto Language and Cognition Lab\ Principal Investigator: Myrto Grigoroglou],
 
-    [Conducted extensive literature review on cross-linguistic semantic
+    [Conducted extensive literature review and discussion sessions on cross-linguistic semantic
     distinctions and audience design],
     [Coded multimodal linguistic data using ELAN],
-    [Presented research findings in an oral presentation at TULCON16],
-    [Created a poster of research findings and a 6-page research paper],
+    [Synthesized research findings in a 25-minute oral presentation at the TULCON16 conference],
+    [Authored a 6-page research paper and poster presentation],
   )
   #entry(
     "Research Assistant and Programmer",
@@ -124,7 +125,7 @@
   #entry(
     "Amigos",
     subtitle: [Friend-matching web app based on the Spring Boot framework written in Java (CS Course Project)],
-    [Collaborated with 5 teammates to implement a web app, wiring back- and frontend with Spring and Thymeleaf],
+    [Organized and led 5 teammates to implement a web app, wiring back- and frontend with Spring and Thymeleaf],
     [Coded 5+ controller and model classes following the MVC Architecture],
     [Developed database to store users and programmed 5 data access interfaces],
   )
