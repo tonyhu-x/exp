@@ -81,7 +81,7 @@
       Investigating African languages spoken in Toronto\
       Supervisor: Suzi Oliveira de Lima
     ],
-    time: [September 2021--December 2021],
+    time: [September 2021--April 2022],
     [Prepared and conducted 8+ elicitation sessions with speakers of Bantu languages to collect language data],
       [Tested hypotheses on adjectives classes and comparative constructions by analyzing data]
   )
