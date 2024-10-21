@@ -26,8 +26,9 @@
         *Relevant Coursework:*
 
         Software Design,
-        Computer Organization,
-        Algorithms, Operating Systems
+        Operating Systems,
+        Computational Linguistics,
+        Algorithms
 
         *Teaching Assistantship:*
 
@@ -53,10 +54,11 @@
 )
 
 #section("Experience")
-#entries.at("work:webdev")
 #entries.at("work:amd")
 
 #section("Select Projects")
+#entries.at("proj:webdev")
+#entries.at("proj:kidneyos")
 #entries.at("proj:amigos")
 #entries.at("proj:autocorrect")
 

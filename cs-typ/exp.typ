@@ -3,20 +3,6 @@
 #let entries = (:)
 
 #entries.insert(
-  "work:webdev",
-  entry(
-    "Web Developer",
-    time: [January 2024--Present],
-    subtitle: [Self-employed],
-    [Developed and deployed a #link("http://aptitude-study.vercel.app")[dynamic website] for
-    an online linguistics study using *TypeScript*, *React*, and *Next.js*],
-    [Configured a *PostgreSQL* database and blob storage through Vercel],
-    [Developing and maintaining an open-source, framework-agnostic *React*
-    #link("https://www.npmjs.com/package/react-experiment-builder")[library]
-    facilitating the setup of online experiments, written in *TypeScript*]
-  )
-)
-#entries.insert(
   "work:amd",
   entry(
     "Firmware Engineer Intern",
@@ -40,7 +26,7 @@
     subtitle: [Aptitude and working memory effects on French
     pronunciation in beginner language classrooms],
     [Designed the methodology of a novel research project with 7 components],
-    [Completed a pilot study of 4 participants using a self-developed online experiment platform],
+    [Tested 10 participants using a self-developed online experiment platform],
     [Reported preliminary findings in a 20-page academic paper],
   )
 )
@@ -87,6 +73,25 @@
   )
 )
 
+#entries.insert(
+  "proj:kidneyos",
+  entry(
+    "KidneyOS",
+    [Working in a team of 10 developer to develop a toy operating system in *Rust*],
+  )
+)
+#entries.insert(
+  "proj:webdev",
+  entry(
+    "React Experiment Builder",
+    [Developing and maintaining an open-source, framework-agnostic *React*
+    #link("https://www.npmjs.com/package/react-experiment-builder")[library]
+    facilitating the setup of online experiments, written in *TypeScript*],
+    [Configured a *PostgreSQL* database and blob storage through Vercel],
+    [Developed and deployed a #link("http://aptitude-study.vercel.app")[dynamic website] for
+    an online linguistics study using *TypeScript*, *React*, and *Next.js*],
+  )
+)
 #entries.insert(
   "proj:amigos",
   entry(
