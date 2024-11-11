@@ -124,14 +124,5 @@
     location: location,
   )
 
-//  locate(loc => {
-//    grid(
-//      columns: (1fr, 2fr),
-//      column-gutter: 0.12in,
-//      body_left_state.final(loc),
-//      body_right_state.final(loc),
-//    )
-//  })
-
   body
 }
