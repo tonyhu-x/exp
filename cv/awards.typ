@@ -30,11 +30,29 @@
 )
 
 #awards.insert(
+  "mat137",
+  dated_entry(
+    time: [2021],
+  )[
+    MAT137 Speaker for Incoming Students, University of Toronto
+  ]
+)
+
+#awards.insert(
   "uoft",
   dated_entry(
     time: [2020--2021],
   )[
     University of Toronto Scholar
+  ]
+)
+
+#awards.insert(
+  "lin101",
+  dated_entry(
+    time: [2020],
+  )[
+    Best LIN101 Final Project, University of Toronto
   ]
 )
 
