@@ -23,7 +23,7 @@
   )[
     Hu, T. J., Moser, C., Tarakcı, B., Ercenur, Ü., & Grigoroglou, M.
     _A cross-linguistic investigation of instrument events in language production_.
-    ROP Poster Fair, University of Toronto.
+    ROP Poster Fair, University of Toronto. March 16.
   ]
 )
 
@@ -34,7 +34,7 @@
   )[
     Hu, T. J.
     _Property concept expressions in Tshiluba and Kirundi_.
-    ROP Poster Fair, University of Toronto.
+    ROP Poster Fair, University of Toronto. March 17.
   ]
 )
 
