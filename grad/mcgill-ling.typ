@@ -1,20 +1,12 @@
 #set text(size: 12pt)
 
-My curiosity about language was ignited when I took my first French class, after
-moving to Canada for high school.
-Since then, studying linguistics has been like a treasure hunt, making me
-discover bits and pieces of hidden knowledge about languages I thought I knew
-so well and languages I had no idea existed.
-Now, after dedicating four and a half years of my undergrad to
-studying linguistics along with my other passion, computer science, I have made
-the decision to pursue a graduate degree in linguistics and contribute my own
-share to the field.
-
 As a student, I am never satisfied with just knowing lecture materials.
 I knew early on that the best way to keep up with cutting-edge research is to
 be part of it.
-As a result, besides completing a Specialist program in linguistics,
-I have also undertaken many research opportunities in my undergraduate years.
+As a result, besides completing the coursework for an undergraduate degree in linguistics
+and computer science at the University of Toronto, I have also undertaken many
+research opportunities at the same time.
+
 My first research position was working with Professor Suzi Lima to investigate
 various syntactic and semantic properties of two African languages spoken in
 Toronto, Tshiluba and Kirundi.
@@ -51,7 +43,8 @@ successfully acquired English as a second language, I have always wondered what 
 my experience different from many others, who may have just as much aspiration to learn
 a language well but still seem unable to go beyond a certain glass ceiling.
 
-It is no easy feat to propose a grand theory of ultimate attainment.
+Understanding ultimate attainment may be my "ultimate" goal, but it is no easy feat to
+propose a grand theory in this subject.
 To gather clues about all the factors at play, one can examine what happens during
 the learning process itself.
 My independent research project, supervised by Professor Jeffrey Steele,
@@ -77,34 +70,43 @@ studies on aptitude and pronunciation proficiency.
 As for VOT and phrasal stress, we chose them by virtue of their being
 well-studied phenomena representing segmental phonology and prosody, respectively.
 
-With the project being to my knowledge the first of its kind to study the links between
+Though the concept of language aptitude has been studied for a few decades, it is
+still highly debated what cognitive abilities it ought to encompass.
+Much of the literature to date only considers those abilities which are presumably
+"specific" to language learning and are therefore testable using tasks which
+resemble the language learning process.
+However, I believe that a model which encompasses both traditional components of
+language aptitude (language analytic ability, phonetic coding ability, etc.) and
+domain-general cognitive abilities will be much more successful at predicting
+L2 proficiency outcomes, especially as we test the notion of aptitude on previously
+in new linguistic domains such as prosody.
+
+My project is to my knowledge the first of its kind to study the links between
 language aptitude and the acquisition of specific phonetic and phonological
-phenomena, it is highly exploratory in nature.
-Fortunately, the linguistics graduate program at U of T provides the perfect opportunity
+phenomena.
+As such, it is highly exploratory in nature.
+Fortunately, the linguistics graduate program at McGill provides the perfect opportunity
 for me to continue and extend this line of research.
 Not only does the department offer highly relevant coursework in advanced phonetics,
-phonology, and experimental design, some faculty members' research is also very relevant
-to mine.
-To test language aptitude's predictive power in learners' sensitivity to minute phonetic
-details, I would like to incorporate more fine-grained phonetic measurements in testing,
-for example, learners' realization of the rhotic consonant /ʁ/ and nasal vowels,
-both of which are usually considered challenging aspects of French phonology.
-Professor Alexei Kochetov's experience with phonetics, phonology, and the interaction between
-the two, coupled with Professor Steele's extensive knowledge in French and L2 acquisition,
-will be of great help in this respect.
-I am also interested in Professor Jessamyn Schertz's work on linking speech perception and
-production.
-With her guidance, I would like to explore whether the effects of individual differences
-on L2 pronunciation are in fact modulated through their effects on perception; in other words,
-is it the case that learners with higher language aptitude and working memory
-perceive the differences better between their L1 phonology and the target L2's, hence why they are
-better at learning pronunciation?
+phonology, and experimental design, I will also benefit greatly from being guided by
+faculty members like Professor Heather Goad and Professor Meghan Clayards.
+Their joint research on individual differences in the use of phonetic cues to
+perceive non-native vowel contrasts is one example where I see a potential to test the
+and refine the language aptitude framework.
+Specifically, if differences in certain auditory abilities predict that some
+learners are better at picking up native-like cue-weighting patterns, then any successful
+model of language aptitude should account for such effects.
+From a more general perspective, I would like to test whether any existing documented
+effects of language aptitude on pronunciation, including any results to arise from my
+current project, are in fact modulated through perception.
+For this line of inquiry, Professor Clayards' expertise in perception research will
+again be of great help.
 
 My merits as a scholar are not only shown by my outstanding grades, the numerous
 scholarships and awards I have received, and the research I have completed.
 They are also corroborated by some non-monetary honours, such as my final
-project for LIN101 being voted the best in class, and being chosen as the MAT137 speaker
-for incoming math students.
+project for my intro to linguistics class being voted the best in class,
+and being chosen as the first-year calculus class speaker for incoming math students.
 I am convinced that my knowledge, skills, and character make me an exceptional candidate,
-and that the graduate program in linguistics at U of T will provide me with a solid
+and that the graduate program in linguistics at McGill will provide me with a solid
 foundation to pursue my future goals as a linguistics researcher.
