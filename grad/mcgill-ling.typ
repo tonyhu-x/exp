@@ -1,10 +1,11 @@
 #set text(size: 12pt)
+#set page(margin: (bottom: 0.8in))
 
 As a student, I am never satisfied with just knowing lecture materials.
 I knew early on that the best way to keep up with cutting-edge research is to
 be part of it.
 As a result, besides completing the coursework for an undergraduate degree in linguistics
-and computer science at the University of Toronto, I have also undertaken many
+and computer science at the University of Toronto, I have also taken part in many
 research opportunities at the same time.
 
 My first research position was working with Professor Suzi Lima to investigate
@@ -23,10 +24,10 @@ I also participate actively in lab meetings, where members listen and
 provide feedback on each other's ongoing research projects, and take part in other
 lab activities such as participant recruitment events.
 
-Both of these research experiences have afforded me the ability to efficiently read
+Both of these research experiences have enabled me to develop the ability to read
 and digest academic literature, and to adopt a critical mindset for designing and examining
 research methodology.
-In addition, I gained strong familiarity with the linguistics research process and 
+In addition, I have gained a strong familiarity with the linguistics research process and
 practical experience with presenting research projects by attending poster
 fairs and conferences as a student researcher.
 In the fall of 2023, I decided to use the skills and experiences I accumulated
@@ -37,7 +38,7 @@ While I am keen to solve many of linguistics's unsolved problems, the one questi
 that motivates me most is _Why do the outcomes of language acquisition differ so
 significantly between adults and young children?_
 In other words, I am interested especially in problems concerning
-individual differences in _ultimate attainment_.
+individual differences in _ultimate attainment_ of linguistic competence.
 The reason that I developed such a strong interest is surprisingly simple --- having
 successfully acquired English as a second language, I have always wondered what made
 my experience different from many others, who may have just as much aspiration to learn
@@ -51,11 +52,12 @@ My independent research project, supervised by Professor Jeffrey Steele,
 is about exactly that.
 In this project, we are investigating individual differences in _language aptitude_
 and _working memory_, and how these cognitive constructs predict gains in
-pronunciation proficiency for beginners learning French in a classroom setting.
+phonetic production abilities for beginners learning French in a classroom setting.
 With the help of Professor Steele, I designed a longitudinal study consisting of
 seven tasks, after carefully examining and synthesizing current literature on language
-aptitude, working memory, and related research methods.
-I then completed two rounds of piloting before starting main data collection in
+aptitude, working memory, and related research methods as well as tasks for
+eliciting both segmental and prosodic phenomena.
+I then completed two rounds of piloting before starting the main data collection in
 the September of 2024.
 Furthermore, I reported preliminary findings from the first round of piloting in a 22-page
 research paper.
@@ -63,12 +65,13 @@ research paper.
 Throughout the design and piloting phase, we continually refined our methodology,
 specifically with respect to operationalizing pronunciation proficiency.
 Acknowledging that no single measurement can paint a comprehensive picture
-of participants' pronunciation abilities, we currently include four features as dependent variables
-in our analysis: plosive VOT, phrasal stress, fluency, and perceived global accent.
+of participants' pronunciation abilities, we are currently including four features as
+dependent variables in our analysis: plosive VOT, phrasal stress, fluency, and perceived
+global accent.
 The choice of fluency and perceived global accent was made to align with previous
 studies on aptitude and pronunciation proficiency.
 As for VOT and phrasal stress, we chose them by virtue of their being
-well-studied phenomena representing segmental phonology and prosody, respectively.
+well-studied phenomena representing segmental and prosodic phonology, respectively.
 
 Though the concept of language aptitude has been studied for a few decades, it is
 still highly debated what cognitive abilities it ought to encompass.
@@ -87,9 +90,10 @@ phenomena.
 As such, it is highly exploratory in nature.
 Fortunately, the linguistics graduate program at McGill provides the perfect opportunity
 for me to continue and extend this line of research.
-Not only does the department offer highly relevant coursework in advanced phonetics,
-phonology, and experimental design, I will also benefit greatly from being guided by
-faculty members like Professor Heather Goad and Professor Meghan Clayards.
+Not only does the department offer highly relevant coursework in phonetics (LING530, 630),
+phonology (LING531, 631, 635), language acquisition (LING651, 655, 710), and
+experimental design (LING619, 620, etc.), I will also benefit greatly from
+being guided by faculty members like Professor Heather Goad and Professor Meghan Clayards.
 Their joint research on individual differences in the use of phonetic cues to
 perceive non-native vowel contrasts is one example where I see a potential to test the
 and refine the language aptitude framework.
@@ -105,7 +109,7 @@ again be of great help.
 My merits as a scholar are not only shown by my outstanding grades, the numerous
 scholarships and awards I have received, and the research I have completed.
 They are also corroborated by some non-monetary honours, such as my final
-project for my intro to linguistics class being voted the best in class,
+project for my LIN101 class being voted the best in class,
 and being chosen as the first-year calculus class speaker for incoming math students.
 I am convinced that my knowledge, skills, and character make me an exceptional candidate,
 and that the graduate program in linguistics at McGill will provide me with a solid
