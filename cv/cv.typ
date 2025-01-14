@@ -71,19 +71,19 @@
 ]
 
 #dated_entry(
-  time: [2024--Present],
-)[
-  _KidneyOS: Rust-Based Toy Operating System_\
-  Research Assistant, University of Toronto\
-  PI: Kuei (Jack) Sun
-]
-
-#dated_entry(
   time: [2022--Present],
 )[
   _Event descriptions in speech and gesture_\
   Research Assistant, University of Toronto\
   Toronto Language and Cognition Lab, PI: Myrto Grigoroglou
+]
+
+#dated_entry(
+  time: [2024],
+)[
+  _KidneyOS: Rust-Based Toy Operating System_\
+  Research Assistant, University of Toronto\
+  PI: Kuei (Jack) Sun
 ]
 
 #dated_entry(
