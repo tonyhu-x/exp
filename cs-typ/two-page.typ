@@ -17,7 +17,6 @@
     #section("Education")
     #entry(
       "University of Toronto",
-      time: [],
       subtitle: [
         September 2020--April 2025
 
@@ -25,10 +24,7 @@
 
         *Relevant Coursework:*
 
-        Software Design,
-        Operating Systems,
-        Computational Linguistics,
-        Algorithms
+        Computational Linguistics, DCSIL startup program
 
         *Teaching Assistantship:*
 
@@ -40,11 +36,11 @@
     #section("Skills")
     #entry_base("Programming Languages")[
 
-      C, JavaScript/TypeScript, Python, Rust, C++, Java, Bash, R, TeX, Typst
+      Python, C, Rust, JavaScript/TypeScript, C++, Java, Bash, R, TeX, Typst
     ]
     #entry_base("Technologies")[
 
-      React, Next.js, Spring, SQL, Linux, UEFI, Git, GitHub/Gerrit, Atlassian Jira, Confluence, Unit Testing
+      React, Next.js, Spring, SQL, Linux, UEFI, Git, GitHub/Gerrit, Jira, Confluence, Unit Testing
     ]
     #entry_base("Natural Languages")[
 

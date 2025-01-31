@@ -77,7 +77,8 @@
   "proj:kidneyos",
   entry(
     "KidneyOS",
-    [Working in a team of 10 developer to develop a toy operating system in *Rust*],
+    [Implemented a subblock allocator and page frame allocator in *Rust*],
+    [Unit-tested 3 placement algorithms and integrated them using the *typestate pattern*],
   )
 )
 #entries.insert(
