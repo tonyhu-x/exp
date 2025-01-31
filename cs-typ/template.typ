@@ -48,6 +48,7 @@
   body
 ) = {
   list([
+    #set par(spacing: 0.65em)
     *#title*
     #body
   ])
@@ -63,10 +64,9 @@
     #if time != "" {
       h(1fr)
       text(style: "italic", time)
+      parbreak()
     }
-
     #subtitle
-
     #set list(marker: "-")
     #set par(justify: true)
     #set text(hyphenate: auto)
