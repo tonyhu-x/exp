@@ -5,8 +5,8 @@
 
 *Objective:*
 This project aims to verify the Auditory Precision Hypothesis-L2,
-which posits that precise domain-general auditory processing serves
-as a cornerstone for second language (L2) speech learning (CITE).
+which posits that precise domain-general auditory processing underlies successful
+second language (L2) speech learning (CITE).
 We will address gaps in previous research by employing a longitudinal paradigm
 and testing a novel learner profile, namely beginner learners of French
 in a classroom setting.
@@ -36,8 +36,8 @@ only learners of English have been recruited and studied.
 These limitations motivate our focus on beginner learners of French.
 
 *Methodology:*
-We will recruit 45 participants from several "advanced beginner" French classes in
-several universities in Montreal.
+We will recruit 45 participants from "advanced beginner" French classes offered by
+universities across Montreal.
 Participants' speech data will be collected at two time points, once at the beginning
 of the semester and once more at the end.
 To tap into multiple aspects of participants' oral proficiency, we will use several
