@@ -1,9 +1,9 @@
-#let template_frq(body, document_name: "") = {
+#let template-frq(body, document-name: "") = {
   set document(author: "Tony Juntao Hu")
   set page(paper: "us-letter", margin: 2cm, header: [
     Tony Juntao Hu
   ], footer: [
-    #document_name
+    #document-name
     #h(1fr)
     #context counter(page).display("1")
   ])
