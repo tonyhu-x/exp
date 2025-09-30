@@ -11,12 +11,21 @@
     ],
     value: 61062,
   ),
+  "distinction": (
+    time: [2025],
+    name: [Honours Bachelor of Arts with High Distinction],
+    institution: [University of Toronto],
+    description: [
+      Awarded on the basis of a CGPA of at least 3.50 or higher.
+    ],
+    value: 0,
+  ),
   "dean's": (
     time: [2021--2025],
     name: [Dean's List Scholar],
     institution: [University of Toronto],
     description: [
-      Recognizes annually Faculty of Arts and Science students with a CGPA of 3.50
+      Recognizes Faculty of Arts and Science students with a CGPA of 3.50
       or higher.
     ],
     value: 0,
@@ -47,7 +56,7 @@
     institution: [Trinity College (University of Toronto)],
     description: [
     Awarded annually to a Trinity College student for high academic achievement.
-    ]
+    ],
     value: 1000,
   ),
   "uoft-incourse": (
@@ -64,12 +73,22 @@
     time: [2021],
     name: [MAT137 Speaker for Incoming Students],
     institution: [University of Toronto],
+    description: [
+      I was chosen as the student speaker representing MAT137 to welcome new
+      first-year students taking math courses, on the basis of my outstanding
+      achievement in that class.
+    ],
     value: 0,
   ),
   "lin101": (
     time: [2020],
     name: [Best LIN101 Final Project],
     institution: [University of Toronto],
+    description: [
+      My final project for LIN101, a 5-minute video about Canadian regional accents,
+      was shortlisted along with 4 other projects and received the highest number of votes
+      in a contest for the "best project" title.
+    ],
     value: 0,
   ),
   "uoft": (

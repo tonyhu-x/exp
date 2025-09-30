@@ -140,8 +140,12 @@
 
 = Honours and Awards
 
-#for (_, entry) in awards {
-  entry
+#for (_, award) in awards {
+  dated_entry(
+    time: award.time
+  )[
+    #award.name
+  ]
 }
 
 = Skills
