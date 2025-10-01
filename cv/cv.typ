@@ -30,7 +30,7 @@
 
 = Presentations
 
-== Referred
+== Refereed
 
 #for (key, entry) in presentations {
   if key.starts-with("pres:") {
@@ -40,7 +40,15 @@
 
 = Posters
 
-== Non-referred
+== Refereed
+
+#for (key, entry) in presentations {
+  if key.starts-with("poster-r:") {
+    entry
+  }
+}
+
+== Non-refereed
 
 #for (key, entry) in presentations {
   if key.starts-with("poster:") {

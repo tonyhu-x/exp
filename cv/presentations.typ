@@ -13,7 +13,19 @@
     _A cross-linguistic investigation of instrument events in language production_.
     16th Annual Toronto Undergraduate Linguistics Conference (TULCON16),
     University of Toronto. March 4--5.
-  ]
+  ],
+)
+
+#presentations.insert(
+  "poster-r:2025",
+  dated_entry(
+    time: [2025],
+  )[
+    Hu, T. J., Steele J. (2025).
+    _Aptitude effects on French pronunciation in beginner language classrooms_.
+    18th Annual Toronto Undergraduate Linguistics Conference (TULCON18),
+    University of Toronto. March 8--9.
+  ],
 )
 
 #presentations.insert(
@@ -24,7 +36,7 @@
     Hu, T. J., Moser, C., Tarakcı, B., Ercenur, Ü., & Grigoroglou, M.
     _A cross-linguistic investigation of instrument events in language production_.
     ROP Poster Fair, University of Toronto. March 16.
-  ]
+  ],
 )
 
 #presentations.insert(
@@ -35,6 +47,5 @@
     Hu, T. J.
     _Property concept expressions in Tshiluba and Kirundi_.
     ROP Poster Fair, University of Toronto. March 17.
-  ]
+  ],
 )
-
