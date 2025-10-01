@@ -5,6 +5,7 @@
 
 #show "Hu, T. J.": strong
 #show heading.where(level: 3): set block(above: 1em)
+#show heading.where(level: 2): set block(above: 0.8em)
 #set par(hanging-indent: 0.5in)
 
 == Presentations
@@ -81,12 +82,12 @@ The website handles data collection for all of the oral production tasks,
 the background questionnaire, and contains instructions for completing the other
 tasks.
 Between January and April 2024, I conducted the first round of pilot testing myself
-reported preliminary findings in a 22-page research paper.
+and reported preliminary findings in a 22-page research paper.
 Through the pilot study, I identified potential methodological shortcomings
 and compensated for them by adding an additional semi-spontaneous oral production task
 and updating the working memory measure.
 I then conducted a pilot of the new methodology in the summer of 2024, before
-official starting data collection in September a year ago.
+officially starting data collection in September a year ago.
 We have so far completed two rounds of data collection, and we plan to continue data
 collection both in Toronto and Montreal.
 
@@ -121,4 +122,27 @@ In the span of eight months, I solidified my understanding of the principles of 
 and semantic analysis, and I gained first-hand experience conducting linguistic field
 work through planning and leading 10 elicitation sessions with language consultants.
 
-== Other experience
+== Other Experience
+
+I believe that the field of second language acquisition must integrate
+data and insights from language pedagogy.
+That is why, during my free time in the summer of 2025,
+I completed the OnTESOL 120-hour advanced TESOL certificate, a program
+recognized by TESL Canada to provide adequate training for teachers aiming
+to teach L2 English to adults.
+I am currently applying to complete the 20-hour required practicum to
+acquire my official TESL certification.
+
+As my undergraduate degree was in both linguistics and computer science,
+while engaging actively in linguistics research, I also
+accumulated significant professional and research experiences in computer
+science.
+Those include a one-year internship (May 2023 to April 2024, overlapping
+with my independent project) as a firmware engineer at Advanced Micro
+Devices (AMD), an RA position with Professor Jack Sun between September
+2024 and January 2025, and leading a start-up project between January
+and April 2025.
+
+Finally, I was a TA for MAT133: Calculus and Linear Algebra for Commerce,
+as well as Academic Coordinator for the U of T linguistics undergraduate student union,
+during the 2022-2023 academic year.

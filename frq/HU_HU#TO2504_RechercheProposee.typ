@@ -82,8 +82,11 @@ with at UQÀM, are both experts in second language acquisition.
 My research aligns with the objectives of the Centre for Research on Brain,
 Language and Music (CRBLM), of which both professors are members.
 
-*UN Sustainable Development Goals:*
-...
+*SGBA+:* While gender has not been documented to mediate between cognitive
+variables and langauge learning, I will aim for a balanced gender representation
+in participant recruitment.
+I will also allow participants to identify as non-binary or not disclose
+their gender.
 
 #show bibliography: none
 #bibliography("bib.bib", style: "apa")

@@ -21,6 +21,15 @@
     ],
     value: 0,
   ),
+  "provost": (
+    time: [2025],
+    name: [Provost's Scholar Award],
+    institution: [Trinity College (University of Toronto)],
+    description: [
+      Awarded to graduating students on the basis of academic merit.
+    ],
+    value: 200,
+  ),
   "mcnab": (
     time: [2023],
     name: [McNab Scholarship in Linguistics],
@@ -29,7 +38,16 @@
       Awarded annually to an outstanding third-year undergraduate student in the
       Department of Linguistics (St. George) on the basis of academic merit.
     ],
-    value: 1000,
+    value: 800,
+  ),
+  "hugh": (
+    time: [2022],
+    name: [Hugh Stephenson Memorial Scholarship],
+    institution: [Trinity College (University of Toronto)],
+    description: [
+       Awarded to a student in each year (years 1, 2 and 3) with the highest standing in a humanities program.
+    ],
+    value: 700,
   ),
   "elaine": (
     time: [2022],
@@ -48,11 +66,11 @@
     description: [
       Awarded annually to a Trinity College student for high academic achievement.
     ],
-    value: 1000,
+    value: 500,
   ),
   "uoft-incourse": (
     time: [2021],
-    name: [University of Toronto Scholar In-Course Scholarship],
+    name: [University of Toronto Scholar In-course Scholarship],
     institution: [University of Toronto],
     description: [
       Awarded annually to top-performing first-year undergraduate students on
@@ -80,6 +98,6 @@
       Awarded to approximately 900 (5%) outstanding U of T students upon admission,
       on the basis of their average at the time of admission.
     ],
-    value: 8500,
-  )
+    value: 7500,
+  ),
 )
