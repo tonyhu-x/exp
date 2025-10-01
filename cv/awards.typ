@@ -46,8 +46,8 @@
     name: [Sophie Joyce Kinch Scholarship],
     institution: [Trinity College (University of Toronto)],
     description: [
-    Awarded annually to a Trinity College student for high academic achievement.
-    ]
+      Awarded annually to a Trinity College student for high academic achievement.
+    ],
     value: 1000,
   ),
   "uoft-incourse": (
