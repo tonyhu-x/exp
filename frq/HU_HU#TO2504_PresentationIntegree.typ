@@ -1,3 +1,3 @@
 #import "template-frq.typ": *
 
-#show: template_frq.with(document_name: "Présentation integrée du parcours")
+#show: template-frq.with(document-name: "Présentation integrée du parcours")

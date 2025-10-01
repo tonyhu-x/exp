@@ -12,3 +12,14 @@
 
   body
 }
+
+#let dated_entry(
+  time: [],
+  body,
+) = [
+  #grid(
+    columns: (0.18fr, 0.82fr),
+    time,
+    body,
+  )
+]
