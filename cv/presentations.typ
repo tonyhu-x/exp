@@ -5,7 +5,20 @@
 // Bolding of my name is done via a show rule in cv.typ.
 
 #presentations.insert(
-  "pres:2023",
+  "pres-r:2026",
+  dated_entry(
+    time: [2026],
+  )[
+    Simard, D., Zuniga, M., & Hu, T. J.
+    _Est-il possible d'expliquer les comportements d'autoreformulations en
+    français L2 à partir des comportements d'autoreformulations en mandarin L1?_
+    Le congrès 2026 de l’Association canadienne de linguistique appliquée (ACLA),
+    University of Alberta, Campus Saint-Jean. May 25--26.
+  ]
+)
+
+#presentations.insert(
+  "pres-r:2023",
   dated_entry(
     time: [2023],
   )[
@@ -47,5 +60,16 @@
     Hu, T. J.
     _Property concept expressions in Tshiluba and Kirundi_.
     ROP Poster Fair, University of Toronto. March 17.
+  ],
+)
+
+#presentations.insert(
+  "talk:2026",
+  dated_entry(
+    time: [2026],
+  )[
+    Hu, T. J.
+    _Language, and learning languages_.
+    Semaine des arts, Cégep de Saint-Hyacinthe. February 27.
   ],
 )

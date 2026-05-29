@@ -14,7 +14,20 @@
 = Education
 
 #dated_entry(
-  time: [2020--Present],
+  time: [2025--Present],
+)[
+  #grid(
+    columns: (0.1fr, 0.9fr),
+  )[
+    MA
+  ][
+    McGill University\
+    Linguistics
+  ]
+]
+
+#dated_entry(
+  time: [2020--2025],
 )[
   #grid(
     columns: (0.1fr, 0.9fr),
@@ -33,7 +46,7 @@
 == Refereed
 
 #for (key, entry) in presentations {
-  if key.starts-with("pres:") {
+  if key.starts-with("pres-r:") {
     entry
   }
 }
@@ -56,9 +69,17 @@
   }
 }
 
+= Invited Talks
+
+#for (key, entry) in presentations {
+  if key.starts-with("talk:") {
+    entry
+  }
+}
+
 = Publications
 
-== Unpublished manuscripts
+== Unpublished Manuscripts
 
 #for (key, entry) in publications {
   if key.starts-with("unpublished:") {
@@ -79,7 +100,24 @@
 ]
 
 #dated_entry(
-  time: [2022--Present],
+  time: [2026],
+)[
+  _Patterns of nasalization and oralization in Headwaters Panoan_\
+  Research Assistant, McGill University\
+  PI: Myriam Lapierre
+]
+
+#dated_entry(
+  time: [2025--2026],
+)[
+  _Est-il possible d'expliquer les comportements d'autoreformulations en
+  français L2 à partir des comportements d'autoreformulations en mandarin L1?_\
+  Assistant de recherche, Université du Québec à Montréal\
+  PI: Daphnée Simard
+]
+
+#dated_entry(
+  time: [2022--2025],
 )[
   _Event descriptions in speech and gesture_\
   Research Assistant, University of Toronto\
@@ -89,7 +127,7 @@
 #dated_entry(
   time: [2024],
 )[
-  _KidneyOS: Rust-Based Toy Operating System_\
+  _KidneyOS: Rust-based toy operating system_\
   Research Assistant, University of Toronto\
   PI: Kuei (Jack) Sun
 ]
@@ -140,6 +178,18 @@
 = Services
 
 #dated_entry(
+  time: [2026]
+)[
+  Volunteer @ LabPhon 20
+]
+
+#dated_entry(
+  time: [2025],
+)[
+  Volunteer @ New Sounds 2025\
+]
+
+#dated_entry(
   time: [2022--2023],
 )[
   Academic Coordinator\
@@ -172,5 +222,5 @@
 
 - Mandarin: native proficiency
 - English: near-native proficiency
-- French: high-intermediate proficiency
+- French: advanced proficiency
 - Russian: intermediate proficiency
